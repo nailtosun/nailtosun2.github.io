@@ -1,6 +1,6 @@
 Hi, i am Nail. This is not coolest personal page obviously.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/nailtosun/nailtosun.github.io/tree/master/images/caps.png)
 
 Yeah, these two are same person. Do not confuse when see me.
 

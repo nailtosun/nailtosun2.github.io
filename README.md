@@ -1,6 +1,6 @@
 # nailtosun.github.io
  
-## Open EEE [!link](https://github.com/openeee)
+## Open EEE [link](https://github.com/openeee)
 
 
 

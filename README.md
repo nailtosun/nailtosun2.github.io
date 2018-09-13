@@ -1,8 +1,9 @@
 Hi, i am Nail. This is not coolest personal page obviously.
 
-![alt text][logo]
+![alt text](https://github.com/nailtosun/nailtosun.github.io/tree/master/images/caps.png)
+
 Yeah, these two are same person. Do not confuse when see me.
-[logo]:https://github.com/nailtosun/nailtosun.github.io/tree/master/images/caps.png
+
 If you are here just here for PEQ or lecture notes go directly [here](https://github.com/openeee). Don't thank you make contribution.
 
 This is my live calendar so if you need me before call me (Neredesin?) you can find

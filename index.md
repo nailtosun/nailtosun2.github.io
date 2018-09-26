@@ -8,6 +8,6 @@ Morever, we build an organization called [OpenEE](openeee.github.io) which have 
 
 Here is some drafts that i wrote. Some of them is relating to my research topics and others general knowledge.
 
-* [How to make own website even though not knowing JavaScript,PHP or Ruby]()
+* [How to make own website even though not knowing JavaScript,PHP or Ruby](posts/building-websites.md)
 * [Inequality is in nature, meet Pareto]()
 * [How many kettles do you need to extend 3cm your shoulder?, of course engineering perspective]()

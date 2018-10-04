@@ -5,6 +5,7 @@
 #### MATLAB
 * [Matlab Onramp](https://www.mathworks.com/training-schedule/matlab-onramp.html)  Good introduction to MATLAB
 * [Deep Learning Onramp](https://www.mathworks.com/training-schedule/deep-learning-onramp)
+* [Advanced MATLAB for Scientific Computing](https://lagunita.stanford.edu/courses/course-v1:Engineering+AdvMATLAB+Fall2018/about)
 * [PID Control Design with Control System Toolbox](https://www.youtube.com/watch?v=2tKe0caUv1I&list=PLn8PRpmsu08qqzGklWmIZVEbaNAy4GdQ7)
 
 #### Python
@@ -22,6 +23,7 @@
 ### Linux
 * [Using Terminal (Basics)](https://www.udacity.com/course/linux-command-line-basics--ud595)
 * [Introduction to Linux, Linux Foundation](https://training.linuxfoundation.org/training/introduction-to-linux/)
+* [Linux Basics](https://www.edx.org/course/linux-basics-the-command-line-interface)
 
 ### Version Control, Git and GitHub
 * [How to use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)

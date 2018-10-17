@@ -8,11 +8,12 @@ We were also working on a possible TUBITAK 1512 project which is about IoT modul
 Morever, we build an organization called [OpenEE](openeee.github.io) which have useful documentations and links for helping undergradute students at METU EE. To become a contributer contact [me](nailtosun@metu.edu.tr) or pull request from Github.
 
 General [tips](posts/tips.md).
-[Personal Notes](post/personal_notes.md) 
+
+[Personal Notes](post/personal_notes.md)
+
 [Not funny stuffs](posts/notfunny.md)
 
 Here is some drafts that i wrote. Some of them is relating to my research topics and others general knowledge.
 
 * [How to make own website even though not knowing JavaScript,PHP or Ruby](posts/building-websites.md)
 * [Inequality is in nature, meet Pareto]()
-* [How many kettles do you need to extend 3cm your shoulder?, of course engineering perspective]()

@@ -9,7 +9,7 @@ Morever, we build an organization called [OpenEE](openeee.github.io) which have 
 
 General [tips](posts/tips.md).
 
-[Personal Notes](post/personal_notes.md)
+[Personal Notes](posts/personal_notes.md)
 
 [Not funny stuffs](posts/notfunny.md)
 

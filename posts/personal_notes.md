@@ -1,3 +1,7 @@
+* [Hepimizin birerr sisifos olduğu gerçeği](http://dodyo.com/hepimizin-birer-sisifos-oldugu-gercegi/)
+
+* doğuştan gelen bir kusurumuz var; hepimiz mutlu olmak için dünyaya geldiğimizi sanıyoruz. bu kusurumuzu gidermedikçe, dünya gözümüze çelişkilerle dolu bir yer görünecektir. çünkü her adımımızda, ister büyük ister küçük bir şey yapmış olalım, dünyanın ve insan hayatının, mutlu bir yaşam sürdürmeye olanak verecek biçimde tasarlanmadığını anlayacağız. işte bu yüzden bütün yaşlıların yüzlerinde aynı ifadeyi, yani düş kırıklığını görmek mümkündür. (Schopenhauer)
+
 * Ama ikimizin arasında çok önemli bir fark var. ben felsefeyi sizin için yaptığımı iddia etmiyorum, oysa siz doktor, sizi motive eden şeyin bana hizmet etmek, acımı dindirmek olduğunu söylüyorsunuz. bunların insan motivasyonuyla uzaktan yakından ilgisi yok. bunlar rahiplere özgü propagandalarla kurnazca yönetilen köle zihniyetinin bir parçası. daha derinlere inip motivasyonunuzun kaynağını bulun! hiç kimsenin bir şeyi sırf başka birisi için yapmadığını göreceksiniz. insanın bütün eylemleri kendisine yöneliktir, bütün hizmetleri kendine hizmettir, bütün sevgisi kendini sevmesindendir.
 bu yorum sizi şaşırttı mı? belki de sevdiğiniz insanları düşünmektesiniz. ama daha derinlere inin, sonunda sevdiğinizin onlar olmadığını göreceksiniz; siz bu sevginin içinizde yarattığı duyguları seviyorsunuz. siz arzuyu seviyorsunuz, arzu edilen şeyi değil!
 

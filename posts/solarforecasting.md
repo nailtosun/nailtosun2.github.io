@@ -21,7 +21,8 @@ The algoritm we used are;
 
 ## Hardware in the loop
 Our cloud cover data mostly depend on Darksky which has 25km^2 resolution. Therefore, we built fish-eye camera for sky-imaging.
-
+## Poster
+[Solar Power Generation Analysis and Forecasting on Real World Data Using LSTM and Autoregressive CNN](/docs/panel.pdf)
 ## Future ideas
 * Using deep learning to forecasting next frame of sky image which will be feeded NN.
 * Using Kalman filters to optimize system states continuously.

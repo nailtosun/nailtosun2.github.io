@@ -1,3 +1,4 @@
+{% include mathjax.html %}
 Hi, I am Nail.
 I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department [.](posts/calender.md)
 I am an undergraduate researcher at Research League under [Powerlab](http://power.eee.metu.edu.tr/). My research topics are;

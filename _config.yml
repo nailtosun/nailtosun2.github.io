@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Nail Tosun
 description: Portfolio Page
 logo: /images/pp.PNG
+mathjax: true

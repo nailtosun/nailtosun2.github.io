@@ -1,4 +1,5 @@
 {% include mathjax.html %}
+<link rel="stylesheet" href="css/style.css"  type="text/css"/>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 Hi, I am Nail.
 I am an undergraduate student at Middle East Technical University in Electrical and Electronics Engineering Department [.](posts/calender.md)

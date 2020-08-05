@@ -8,7 +8,7 @@ Hi, I am Nail.
 I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [LinkedIn](https://www.linkedin.com/in/nail-tosun-b00a80150/)
 * [ResearchGate](https://www.researchgate.net/profile/Nail_Tosun)
-* [Quara](https://www.quora.com/profile/Nail-Tosun)
+* [Quora](https://www.quora.com/profile/Nail-Tosun)
 
 ## Research Topics
 * Electromagnetic Modelling of Electromagnetic Launchers

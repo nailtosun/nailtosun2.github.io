@@ -15,15 +15,16 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * Electricity Load and Bid Forecasting
 
 ## Academic Papers
-### Published
+### Peer reviewed
+* Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN (Accepted to International Conference on Smart Energy Systems and Technologies, 2020)
+* [Optimum Convex Rail Cross-Section Selection for Electromagnetic Launchers, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9104009)
+* A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force (Accepted to IEEE Transactions on Plasma Science)
+
 ### Under review
-* A Novel Method to Simulate Electromagnetic Launchers with Moving Armature for Calculating Rails Pressure (Submitted to Conference of Electromagnetic Field Computation, 2020)
-* Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA) (Submitted to IEEE Transactions on Plasma Science)
-* Optimum Convex Rail Cross-Section Selection for Electromagnetic Launchers (Submitted to IEEE Transactions on Plasma Science)
-* Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN (Submitted to International Conference on Smart Energy Systems and Technologies, 2020)
 
 ## Awards
 * People's Choise Award: Solar Power Generation Analysis and Forecasting on Real World Data Using LSTM and Autoregressive CNN, METU EE STAR 2019
+* Finalist: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA), METU EE GRAD STAR 2020
 
 ## Other Works
 We were also working on a TUBITAK 1512 project, a possible start-up which is about IoT modules for Solar Energy Forecasting. Here is a post about why this is so crucial for our future grids. Here ia a quick intro what we do (In Turkish) [link](/docs/kılavuz.pdf)

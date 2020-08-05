@@ -6,6 +6,9 @@ Hi, I am Nail.
  I am currently pursuing Master's degree at Middle East Technical University in Electrical and Electronics Engineering Department[.](posts/calender.md)
 
 I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
+* [LinkedIn](https://www.linkedin.com/in/nail-tosun-b00a80150/)
+* [ResearchGate](https://www.researchgate.net/profile/Nail_Tosun)
+* [Quara](https://www.quora.com/profile/Nail-Tosun)
 
 ## Research Topics
 * Electromagnetic Modelling of Electromagnetic Launchers

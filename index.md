@@ -9,6 +9,7 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [LinkedIn](https://www.linkedin.com/in/nail-tosun-b00a80150/)
 * [ResearchGate](https://www.researchgate.net/profile/Nail_Tosun)
 * [Quora](https://www.quora.com/profile/Nail-Tosun)
+* [Google Scholar](https://scholar.google.com.tr/citations?user=2_zTqOwAAAAJ&hl=tr&oi=ao)
 
 ## Research Topics
 * Electromagnetic Modelling of Electromagnetic Launchers
@@ -22,6 +23,8 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN (Accepted to International Conference on Smart Energy Systems and Technologies, 2020)
 * [Optimum Convex Rail Cross-Section Selection for Electromagnetic Launchers, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9104009)
 * A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force (Accepted to IEEE Transactions on Plasma Science)
+* A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods (Accepted to the International Conference on Plasma Science, 2020)
+* Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA) (Accepted to the International Conference on Plasma Science, 2020)
 
 ### Under review
 
@@ -33,6 +36,10 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 We were also working on a TUBITAK 1512 project, a possible start-up which is about IoT modules for Solar Energy Forecasting. Here is a post about why this is so crucial for our future grids. Here ia a quick intro what we do (In Turkish) [link](/docs/kılavuz.pdf)
 
 ## Some Posters and Presentations
+* [ICOPS 2020: A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods](https://github.com/nailtosun/nailtosun.github.io/blob/master/docs/D4M7-TA7.4S4-040-Nail_Tosun.pdf)
+* [SEST 2020: Solar Power Generation Analysis and Forecasting Real-World Data Using
+LSTM and Autoregressive CNN](https://github.com/nailtosun/nailtosun.github.io/blob/master/docs/SEST_2020_74.pdf)
+* [ICOPS 2020: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA)](https://github.com/nailtosun/nailtosun.github.io/blob/master/docs/P4-46-TA7-S4-041%E2%80%93Nail_Tosun.pdf)
 * [STAR 2019: Thermal Modelling of IMMD Structure and Heat-Sink Design](/docs/Nail_Poster.pdf)
 * [STAR 2019: Solar Power Generation Analysis and Forecasting on Real World Data Using LSTM and Autoregressive CNN](/docs/panel.pdf)
 

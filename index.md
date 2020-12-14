@@ -20,9 +20,9 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 
 ## Academic Papers
 ### Peer reviewed
-* Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN (Accepted to International Conference on Smart Energy Systems and Technologies, 2020)
+* [Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN, International Conference on Smart Energy Systems and Technologies, 2020](https://ieeexplore.ieee.org/document/9203124)
 * [Optimum Convex Rail Cross-Section Selection for Electromagnetic Launchers, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9104009)
-* A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force (Accepted to IEEE Transactions on Plasma Science)
+* [A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9179020)
 * A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods (Accepted to the International Conference on Plasma Science, 2020)
 * Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA) (Accepted to the International Conference on Plasma Science, 2020)
 

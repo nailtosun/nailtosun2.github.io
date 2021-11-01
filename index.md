@@ -3,7 +3,7 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 Hi, I am Nail.
- I am currently pursuing Master's degree at Middle East Technical University in Electrical and Electronics Engineering Department[.](posts/calender.md)
+ I am currently seeking PhD positions in Electrical and Electronics Engineering[.](posts/calender.md)
 
 I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [LinkedIn](https://www.linkedin.com/in/nail-tosun-b00a80150/)
@@ -25,9 +25,12 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9179020)
 * [A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods, IEEE Transactions on Plasma Science] (https://ieeexplore.ieee.org/abstract/document/9387772)
 * Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA) (Accepted to the International Conference on Plasma Science, 2020)
+### Thesis 
+* [Transient Modeling Techniques for the Analysis of Electromagnetic Launchers, MS Thesis, 2021](https://open.metu.edu.tr/bitstream/handle/11511/93126/Tez_NailTosun.pdf)
 
 ### Under review
-
+* [Inductance Gradient Calculations of EMFY-3 Electromagnetic Launcher](https://www.techrxiv.org/articles/preprint/Inductance_Gradient_Calculations_of_EMFY-3_Electromagnetic_Launcher/15372999)
+* [Bus Impact on the Inductance Distribution of Electromagnetic Launchers](https://www.techrxiv.org/articles/preprint/Bus_Impact_on_the_Inductance_Distribution_of_Electromagnetic_Launchers/15370881)
 ## Awards
 * People's Choise Award: Solar Power Generation Analysis and Forecasting on Real World Data Using LSTM and Autoregressive CNN, METU EE STAR 2019
 * Finalist: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA), METU EE GRAD STAR 2020

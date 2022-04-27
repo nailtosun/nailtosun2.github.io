@@ -3,7 +3,8 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 Hi, I am Nail.
- I am currently seeking PhD positions in Electrical and Electronics Engineering[.](posts/calender.md)
+I received the B.Sc. and M.Sc. degrees from the Department of Electrical and Electronics Engineering, Middle East Technical University (METU), Ankara, Turkey, in 2019 and 2021 respectively. 
+I am currently seeking PhD positions in Electrical and Electronics Engineering[.](posts/calender.md)
 
 I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [LinkedIn](https://www.linkedin.com/in/nail-tosun-b00a80150/)

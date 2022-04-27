@@ -32,8 +32,7 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [Muzzle Voltage Characteristics of Railguns](https://ieeexplore.ieee.org/document/9733152)
 * [A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-Transient Finite Element Methods](https://ieeexplore.ieee.org/document/9717513)
 * [Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN, International Conference on Smart Energy Systems and Technologies, 2020](https://ieeexplore.ieee.org/document/9203124)
-### Under Review
-* [Muzzle Voltage Experiments of the EMFY-3 Launcher, submitted to IEEE Transactions of Plasma Science]()
+
 ### Thesis 
 * [Transient Modeling Techniques for the Analysis of Electromagnetic Launchers, MS Thesis, 2021](https://open.metu.edu.tr/bitstream/handle/11511/93126/Tez_NailTosun.pdf)
 
@@ -46,7 +45,7 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * Finalist: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA), METU EE GRAD STAR 2020
 
 ## Other Works
-We were also working on a TUBITAK 1512 project, a possible start-up which is about IoT modules for Solar Energy Forecasting. Here is a post about why this is so crucial for our future grids. Here ia a quick intro what we do (In Turkish) [link](/docs/kılavuz.pdf)
+We were also worked on a TUBITAK 1512 project, a possible start-up which is about IoT modules for Solar Energy Forecasting. Here is a post about why this is so crucial for our future grids. Here ia a quick intro what we do (In Turkish) [link](/docs/kılavuz.pdf)
 
 ## Some Posters and Presentations
 * [ICOPS 2020: A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods](https://github.com/nailtosun/nailtosun.github.io/blob/master/docs/D4M7-TA7.4S4-040-Nail_Tosun.pdf)

@@ -12,25 +12,35 @@ I am a graduate researcher at [Powerlab](http://power.eee.metu.edu.tr/).
 * [Google Scholar](https://scholar.google.com.tr/citations?user=2_zTqOwAAAAJ&hl=tr&oi=ao)
 
 ## Research Topics
+* Electrical Machine Design
 * Electromagnetic Modelling of Electromagnetic Launchers
+* Low Frequency Electromagnetic Finite Element Method
 * Control System Design, Optimization
 * [Renewables Supply Forecasting using ANN](posts/solarforecasting.md)
 * [Thermal Analysis of Electrical Motors](/docs/Nail_Poster.pdf)
 * Electricity Load and Bid Forecasting
 
 ## Academic Papers
-### Peer reviewed
-* [Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN, International Conference on Smart Energy Systems and Technologies, 2020](https://ieeexplore.ieee.org/document/9203124)
+### Journals
+* [Sensitivity Analysis for the Inductance Gradient of EMFY-3 Electromagnetic Launcher, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9681474)
 * [Optimum Convex Rail Cross-Section Selection for Electromagnetic Launchers, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9104009)
 * [A Hybrid Simulation Model for Electromagnetic Launchers Including the Transient Inductance and Electromotive Force, IEEE Transactions on Plasma Science](https://ieeexplore.ieee.org/document/9179020)
 * [A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-transient Finite Element Methods, IEEE Transactions on Plasma Science] (https://ieeexplore.ieee.org/abstract/document/9387772)
-* Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA) (Accepted to the International Conference on Plasma Science, 2020)
+
+### Conference Proceedings
+* [Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA)](https://ieeexplore.ieee.org/document/9717490)
+* [Muzzle Voltage Characteristics of Railguns](https://ieeexplore.ieee.org/document/9733152)
+* [A Comparison of Velocity Skin Effect Modeling with 2-D Transient and 3-D Quasi-Transient Finite Element Methods](https://ieeexplore.ieee.org/document/9717513)
+* [Solar Power Generation Analysis and Forecasting Real-World Data Using LSTM and Autoregressive CNN, International Conference on Smart Energy Systems and Technologies, 2020](https://ieeexplore.ieee.org/document/9203124)
+### Under Review
+* [Muzzle Voltage Experiments of the EMFY-3 Launcher, submitted to IEEE Transactions of Plasma Science]()
 ### Thesis 
 * [Transient Modeling Techniques for the Analysis of Electromagnetic Launchers, MS Thesis, 2021](https://open.metu.edu.tr/bitstream/handle/11511/93126/Tez_NailTosun.pdf)
 
 ### Under review
 * [Inductance Gradient Calculations of EMFY-3 Electromagnetic Launcher](https://www.techrxiv.org/articles/preprint/Inductance_Gradient_Calculations_of_EMFY-3_Electromagnetic_Launcher/15372999)
 * [Bus Impact on the Inductance Distribution of Electromagnetic Launchers](https://www.techrxiv.org/articles/preprint/Bus_Impact_on_the_Inductance_Distribution_of_Electromagnetic_Launchers/15370881)
+
 ## Awards
 * People's Choise Award: Solar Power Generation Analysis and Forecasting on Real World Data Using LSTM and Autoregressive CNN, METU EE STAR 2019
 * Finalist: Electromagnetic Launcher Speed Control with a Multilevel Fast Triggering Time Algorithm (MFTTA), METU EE GRAD STAR 2020
